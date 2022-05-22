@@ -2,6 +2,8 @@
 Discord.py ile geliştirmiş olduğum sms bilgilendirmeli sunucu koruma botudur
 Vaktim olmadığından dolayı bazı koruma sistemlerini ekleyemedim ama zaten amacım sizin sms gönderme mantığını anlayıp kendinizi geliştirmeniz hepinize iyi günler diliyorum
 
+bot resimleri klasöründen botun resimlerini görebilirsiniz
+
 Numarasını kullandığımız site -> https://www.twilio.com/ bu siteden üye olup numara alabilirsiniz
 
 https://youtu.be/-fqGGqXHQ2E bu videodaki gibi yaparak numarayı alabilirsiniz 
