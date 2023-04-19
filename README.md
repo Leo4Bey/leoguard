@@ -12,4 +12,4 @@ herhangi bir sorunla karşırsanız buralardan iletişime geçebilirsiniz
 
 https://www.leobey.xyz/   https://discord.gg/5bbvAcWdu2   https://discord.gg/QTsB54eWJq  LEO4BEY#0001 
 
-LEO4BEY#0001 Tarafından SOT [ÇAKA BEYLİĞİ] sunucusu için hazırlanmıştır
+LEO4BEY#0753 Tarafından SOT [ÇAKA BEYLİĞİ] sunucusu için hazırlanmıştır
